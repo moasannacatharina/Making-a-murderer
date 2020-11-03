@@ -10,7 +10,7 @@ About a year ago the cat Yumyum was reported missing by his mother Skrollan. The
 Skrollan on the other hand can't let this go, she needs to find out what happened to her son. To her help she now has inspector Basil, an experienced British Shorthair from Oxford who will help to try and solve the mystery.
 The police established a report of the location from where Yamyam was last seen. The spot is located at a playground near Bakersyard. Officer Shepherd also found Yumyums DNA in a dried splash of blood🩸 right next to a small sandbox. There has to be more to this story..
 
-<br><br>
+<br>
 
 ## Instructions
 You are now detective Basil and you are on the case!
@@ -18,13 +18,13 @@ You are now detective Basil and you are on the case!
 2. Open the ```.db```-file in a SQL friendly software (TablePlus).
 3. Start working on those queries and get to the bottom of all of this.
 Good of luck to you, private eye!
-<br><br>
+<br>
 
 ## Screenshot of the database design showing the table relations
 
 ![Database Designer](databasedesign.png)
 
-<br><br>
+<br>
 
 ## Creators
 - [Moa Berg](https://github.com/moasannacatharina)
