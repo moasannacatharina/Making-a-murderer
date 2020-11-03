@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/9V3InPgre6BLs939qG/giphy.gif" width="75%">
 
 ## About this project
-This is a group project which is paraphrase based off of [The SQL Murder Mystery](https://mystery.knightlab.com/). The assignment was to come up with our own mystery this time (solvable through SQL) and this is what we came up with. Have fun and stay safe from mysterious mysteries!
+This is a group project which is a paraphrase based off of [The SQL Murder Mystery](https://mystery.knightlab.com/). The assignment was to come up with our own mystery this time (solvable through SQL) and this is what we came up with. Have fun and stay safe from mysterious mysteries!
 
 ## The plot of the story
 About a year ago the cat Yumyum was reported missing by his mother Skrollan. The exact date was 7th of July 2018 when Skrollan contacted the police station in Sphynxtown and the investigation was started. The investigators didn’t get very far in solving this mystery. Yumyum still hasn’t been found and the police have already closed the case and concluded that Yumyum is most likely dead. Apparently they don’t prioritize cat murders, which might be understandable since the police chief is a german shepherd.
@@ -17,7 +17,7 @@ You are now detective Basil and you are on the case!
 1. Clone or fork this repository to your computer.
 2. Open the ```.db```-file in a SQL friendly software (TablePlus).
 3. Start working on those queries and get to the bottom of all of this.
-<br>Good of luck to you, private eye!
+<br>Best of luck to you, private eye!
 
 
 ## Screenshot of the database design showing the table relations
