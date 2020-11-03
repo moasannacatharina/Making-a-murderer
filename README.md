@@ -8,6 +8,7 @@ The police did establish a report and a crime scene where they said the murder t
 
 <br>
 <br>
-## Screenshot of the database design showing the table relations
+
+# Screenshot of the database design showing the table relations
 
 ![Database Designer](databasedesign.png)
