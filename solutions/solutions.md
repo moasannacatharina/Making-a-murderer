@@ -1,7 +1,7 @@
 # Solutions
 
 #### Spoiler alert! Don't read this unless you intend to see all the answers to the mystery.
-##### This is meant as a step-by-step guide on how to solve the Murder Mystery, for those who want/need it:
+##### This is meant as a step-by-step guide on how to solve the mystery, for those who want/need it:
 
 <br>
 
