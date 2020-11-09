@@ -9,7 +9,7 @@ This is a group project (a paraphrase based off of [The SQL Murder Mystery](http
 About a year ago the cat Yumyum was reported missing by his mother Skrollan. The exact date was 7th of July 2018 when Skrollan contacted the police station in Sphynxtown and the investigation was started. The investigators didn’t get very far in solving this mystery.
 To this day - Yumyum still hasn’t been found and the police have already closed the case and concluded that Yumyum is most likely dead. Apparently they don’t prioritize cat murders, which might be understandable since the chief of police is a german shepherd.
 <br><br>
-Skrollan on the other hand can't let this go. She needs to find out what happened to her son. To her help she has now hired a private investigator named Basil - experienced British Shorthair from Oxford - who will try and solve this mystery.<br>
+Skrollan on the other hand can't let this go. She needs to find out what happened to her son. To her help she has now hired a private investigator named Basil - an experienced British Shorthair from Oxford - who will try and solve this mystery.<br>
 The police established a report of the location from where Yumyum was last seen. The spot was located at a playground near Bakersyard. Officer Shepherd also found Yumyum's DNA in some dried blood🩸 spatter right next to a small sandbox. There has to be more to this story..
 
 
