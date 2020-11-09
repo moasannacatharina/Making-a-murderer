@@ -1,4 +1,4 @@
-# Mystery of the missing cat Yumyum 😺
+# The Disappearance in Sphynxtown 😺
 
 <img src="https://media.giphy.com/media/9V3InPgre6BLs939qG/giphy.gif" width="75%">
 
@@ -30,3 +30,6 @@ You are now detective Basil and you are on the case!
 - [Moa Berg](https://github.com/moasannacatharina)
 - [Emil Pettersson](https://github.com/emilvictor)
 - [Dante Mogrim](https://github.com/mogrim-91)
+
+## License
+MIT
