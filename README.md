@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/9V3InPgre6BLs939qG/giphy.gif" width="75%">
 
 ## About this project
-This is a group project which is a paraphrase based off of [The SQL Murder Mystery](https://mystery.knightlab.com/). The assignment was to come up with our own mystery this time (solvable through SQL) and this is what we came up with. Have fun and stay safe from mysterious mysteries!
+This is a group project (a paraphrase based off of [The SQL Murder Mystery](https://mystery.knightlab.com/)). The assignment was to come up with our own mystery this time (solvable through SQL) and this is what we came up with. Have fun and stay safe from mysterious mysteries!
 
 ## The plot of the story
 About a year ago the cat Yumyum was reported missing by his mother Skrollan. The exact date was 7th of July 2018 when Skrollan contacted the police station in Sphynxtown and the investigation was started. The investigators didn’t get very far in solving this mystery.
