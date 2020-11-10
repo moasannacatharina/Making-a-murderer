@@ -32,4 +32,4 @@ The police established a report of the location from where Yumyum was last seen.
 - [Dante Mogrim](https://github.com/mogrim-91)
 
 ## License
-MIT
+This project is licensed under the MIT-license. Check out the LICENSE-file to read more.
